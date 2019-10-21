@@ -1,0 +1,109 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AnalysisUIOptions">
+    <option name="SCOPE_TYPE" value="3" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="cbaa7d51-d5fb-4ae0-bd09-249cecca38f5" name="Default Changelist" comment="checkouthandler refactoring">
+      <change afterPath="$PROJECT_DIR$/.idea/.name" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/README" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/solidtest.iml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/acerat/solidtest/cardpayments/CardDetails.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/acerat/solidtest/cardpayments/CardPaymentService.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/acerat/solidtest/checkout/CheckoutHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/acerat/solidtest/checkout/state/CardPaymentFailures.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/acerat/solidtest/checkout/state/CardPaymentResult.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/acerat/solidtest/checkout/state/CheckoutState.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/acerat/solidtest/checkout/state/InvoiceFailures.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/acerat/solidtest/checkout/state/ShipmentFailures.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/acerat/solidtest/checkout/state/WarehouseReservationFailures.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/acerat/solidtest/checkout/state/WarehouseSendFailures.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/acerat/solidtest/checkout/validation/ValidationHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/acerat/solidtest/configuration/ApplicationConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/acerat/solidtest/configuration/CardPaymentConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/acerat/solidtest/customers/Address.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/acerat/solidtest/customers/Customer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/acerat/solidtest/customers/CustomerConfiguration.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/acerat/solidtest/customers/CustomerPaymentMethod.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/acerat/solidtest/customers/CustomerRepository.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/acerat/solidtest/encryptedstores/Encryption.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/acerat/solidtest/encryptedstores/TrustStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/acerat/solidtest/encryptedstores/TrustStoreCredentials.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/acerat/solidtest/invoicing/Invoice.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/acerat/solidtest/invoicing/InvoiceHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/acerat/solidtest/logistics/Reserve.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/acerat/solidtest/logistics/ShipmentTracker.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/acerat/solidtest/logistics/Warehouse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/acerat/solidtest/product/Product.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/acerat/solidtest/product/ProductStore.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/acerat/solidtest/shoppingcart/Order.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/com/acerat/solidtest/shoppingcart/OrderLine.java" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="ProjectId" id="1SKVGfjit0gTlY8gLeCmGNu7mpJ" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
+  <component name="PropertiesComponent">
+    <property name="run.code.analysis.last.selected.profile" value="pProject Default" />
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="cbaa7d51-d5fb-4ae0-bd09-249cecca38f5" name="Default Changelist" comment="" />
+      <created>1571312182058</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571312182058</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>
